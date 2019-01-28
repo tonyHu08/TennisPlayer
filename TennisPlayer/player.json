@@ -1,0 +1,45 @@
+[{
+    "nation": "瑞士",
+    "favorate": false,
+    "introduce": "罗杰·费德勒，瑞士男子职业网球运动员（1998年转为职业），以全面稳定的技术、华丽积极的球风、绅士优雅的形象而著称。众多评论家、现役与退役的选手认为费德勒为史上最伟大球员之一。费德勒不仅在网球领域取得成功，亦在慈善和商业领域活跃。",
+    "GSnum": 20,
+    "birth": "1981.08.08",
+    "rating": "",
+    "ChineseName": "罗杰·费德勒",
+    "image": "federer7",
+    "background": "federer2",
+    "name": "Roger Federer"
+}, {
+    "nation": "西班牙",
+    "favorate": false,
+    "introduce": "三岁的纳达尔在叔叔托尼的带领下进入了网球的世界，直到现在托尼依然是纳达尔唯一的教练。纳达尔是天生的右撇子，但他很小就在托尼教导下改为左手持拍。托尼认为这样他的双手反拍可以从强壮的右臂获益。\n2001年5月，14岁的纳达尔在一场红土表演赛中，打败了前大满贯冠军帕特·卡什。同年他正式转入职业网坛。",
+    "GSnum": 16,
+    "birth": "1986.06.03",
+    "rating": "",
+    "ChineseName": "拉斐尔·纳达尔",
+    "image": "nadal1",
+    "background": "nadal2",
+    "name": "Rafa Nadal"
+}, {
+    "nation": "塞尔维亚",
+    "favorate": false,
+    "introduce": "德约科维奇出生在一个有体育传统的家庭，他的父亲和叔叔都曾是前南斯拉夫的滑雪运动员。这个家庭里一开始没有人打网球。",
+    "GSnum": 14,
+    "birth": "1987.05.22",
+    "rating": "",
+    "ChineseName": "诺瓦克·德约科维奇",
+    "image": "djokovic4",
+    "background": "djokovic2",
+    "name": "Novak Djokovic"
+}, {
+    "nation": "英国",
+    "favorate": false,
+    "introduce": "穆雷从三岁开始打网球，母亲朱迪是前苏格兰国家队教练，父亲威廉姆是一位区域销售经理，父母在穆雷10岁时离婚。",
+    "GSnum": 3,
+    "birth": "1987.05.15",
+    "rating": "",
+    "ChineseName": "安迪·穆雷",
+    "image": "murray1",
+    "background": "murray2",
+    "name": "Andy Murray"
+}]
